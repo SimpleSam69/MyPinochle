@@ -1,4 +1,1 @@
-# MyPinochle
-# README.md
-# ascii and unicode
-# decent
+# This is MyPinochle's         # README.md This turns out to be pretty intuitive, so instructions won't be necessary
