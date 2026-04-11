@@ -1,1 +1,1 @@
-# This is MyPinochle's         # README.md This turns out to be pretty intuitive, so instructions won't be necessary
+# This is MyPinochle's         # README.md This turns out to be pretty intuitive, so instructions won't be necessary. Just do your best to get all your melds
